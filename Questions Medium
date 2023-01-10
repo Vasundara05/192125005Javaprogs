@@ -1,0 +1,391 @@
+Medium
+
+
+Write a program to count all the prime and composite numbers entered by the user.
+Sample Input:
+Enter the numbers 
+4
+54
+29
+71
+7
+59
+98
+23
+Sample Output:
+Composite number:3
+Prime number:5
+Test cases:
+33, 41, 52, 61,73,90
+TEN, FIFTY, SIXTY-ONE, SEVENTY-SEVEN, NINE
+45, 87, 09, 5.0 ,2.3, 0.4
+-54, -76, -97, -23, -33, -98
+45, 73, 00, 50, 67, 44
+
+Find the Mth maximum number and Nth minimum number in an array and then find the sum of it and difference of it.
+Sample Input:
+Array of elements = {14, 16, 87, 36, 25, 89, 34}
+M = 1
+N = 3
+Sample Output:
+1stMaximum Number = 89
+3rdMinimum Number = 25
+Sum = 114
+Difference = 64
+Test cases:
+{16, 16, 16 16, 16}, M = 0, N = 1
+{0, 0, 0, 0}, M = 1, N = 2
+{-12, -78, -35, -42, -85}, M = 3 , N = 3
+{15, 19, 34, 56, 12}, M = 6 , N = 3
+{85, 45, 65, 75, 95}, M = 5 , N = 7  
+
+Write a program to print the total amount available in the ATM machine with the conditions applied.
+Total denominations are 2000, 500, 200, 100, get the denomination priority from the user and the total number of notes from the user to display the total available balance to the user
+Sample Input:
+Enter the 1st Denomination: 500
+Enter the 1st Denomination number of notes: 4
+Enter the 2nd Denomination: 100
+Enter the 2nd  Denomination number of notes: 20
+Enter the 3rd  Denomination: 200
+Enter the 3rd  Denomination number of notes: 32
+Enter the 4th Denomination: 2000
+Enter the 4th Denomination number of notes: 1
+Sample Output:
+Total Available Balance in ATM: 12400
+
+Test Cases:
+3 Hidden Test cases (Think Accordingly based on Denominations)
+
+
+Write a program using choice to check
+Case 1: Given string is palindrome or not
+Case 2: Given number is palindrome or not
+Sample Input:
+Case = 1
+String = MADAM
+Sample Output:
+Palindrome
+Test cases:
+MONEY
+5678765
+MALAY12321ALAM
+MALAYALAM
+1234.4321
+
+Write a program to convert Decimal number equivalent to Binary number and octal numbers?
+Sample Input:
+Decimal Number: 15
+Sample Output:
+Binary Number = 1111
+Octal = 17
+Test cases:
+111
+15.2
+0
+B12
+1A.2
+
+In an organization they decide to give bonus to all the employees on New Year. A 5% bonus on salary is given to the grade A workers and 10% bonus on salary to the grade B workers. Write a program to enter the salary and grade of the employee. If the salary of the employee is less than $10,000 then the employee gets an extra 2% bonus on salary Calculate the bonus that has to be given to the employee and print the salary that the employee will get.
+Sample Input & Output:
+Enter the grade of the employee: B
+Enter the employee salary: 50000
+Salary=50000
+Bonus=5000.0
+Total to be paid:55000.0
+Test cases:
+Enter the grade of the employee: A
+Enter the employee salary: 8000
+Enter the grade of the employee: C
+Enter the employee salary: 60000
+Enter the grade of the employee: B
+Enter the employee salary: 0
+Enter the grade of the employee: 38000
+Enter the employee salary: A
+Enter the grade of the employee: B
+Enter the employee salary: -8000
+
+Write a program to print the first n perfect numbers. (Hint Perfect number means a positive integer that is equal to the sum of its proper divisors)
+Sample Input:
+N = 3
+Sample Output:
+First 3 perfect numbers are: 6 , 28 , 496
+Test Cases:
+N = 0
+N = 5
+N = -2
+N = -5
+N = 0.2
+
+Write a program to print the first n perfect numbers. (Hint Perfect number means a positive integer that is equal to the sum of its proper divisors)
+Sample Input:
+N = 3
+Sample Output:
+First 3 perfect numbers are: 6 , 28 , 496
+Test Cases:
+N = 0
+N = 5
+N = -2
+N = -5
+N = 0.2
+Write a program to enter the marks of a student in four subjects. Then calculate the total and aggregate, display the grade obtained by the student. If the student scores an aggregate greater than 75%, then the grade is Distinction. If aggregate is 60>= and <75, then the grade is First Division. If aggregate is 50 >= and <60, then the grade is Second Division. If aggregate is 40>= and <50, then the grade is Third Division. Else the grade is Fail.
+
+Sample Input & Output:
+Enter the marks in python: 90
+Enter the marks in c programming: 91
+Enter the marks in Mathematics: 92
+Enter the marks in Physics: 93
+Total= 366
+Aggregate = 91.5
+DISTINCTION
+Test cases:
+18, 76,93,65
+73,78,79,75
+98,106,120,95
+96,73, -85,95
+78,59.8,76,79
+
+
+Write a program to calculate tax given the following conditions:
+If income is less than or equal to 1,50,000 then no tax
+If taxable income is 1,50,001 – 3,00,000 the charge 10% tax
+If taxable income is 3,00,001 – 5,00,000 the charge 20% tax
+If taxable income is above 5,00,001 then charge 30% tax
+
+Sample Input:
+Enter the income:200000
+Sample Output:
+Tax= 20000
+Test cases:
+400700
+2789239
+150000
+00000
+-125486
+
+Write a program to enter the marks of a student in four subjects. Then calculate the total and aggregate, display the grade obtained by the student. If the student scores an aggregate greater than 75%, then the grade is Distinction. If aggregate is 60>= and <75, then the grade is First Division. If aggregate is 50 >= and <60, then the grade is Second Division. If aggregate is 40>= and <50, then the grade is Third Division. Else the grade is Fail.
+Sample Input & Output:
+Enter the marks in python: 90
+Enter the marks in c programming: 91
+Enter the marks in Mathematics: 92
+Enter the marks in Physics: 93
+Total= 366
+Aggregate = 91.5
+DISTINCTION
+Test cases:
+18, 76,93,65
+73,78,79,75
+98,106,120,95
+96,73, -85,95
+78,59.8,76,79
+
+Write a program to print the multiplication table of number m up to n.
+Sample Input:
+M = 4
+N = 5
+Sample Output:
+1x4=4
+2x4=8
+3x4=12
+4x4=16
+5x4=20
+Test cases:
+M = 6, N = -3
+M = -3, N = 5
+M = 4, N = 0
+M = 0, N = 0
+M = -5, N = -5
+
+Write a program to read the numbers until -1 is encountered. Find the average of positive numbers and negative numbers entered by user.
+Sample Input:
+Enter -1 to exit…
+Enter the number: 7
+Enter the number: -2
+Enter the number: 9
+Enter the number: -8
+Enter the number: -6
+Enter the number: -4
+Enter the number: 10
+Enter the number:  -1
+Sample Output:
+The average of negative numbers is: -5.0
+The average of positive numbers is : 8.66666667
+Test cases:
+-1,43, -87, -29, 1, -9
+73, 7-6,2,10,28,-1
+-5, -9, -46,2,5,0
+9, 11, -5, 6, 0,-1
+-1,-1,-1,-1,-1
+
+
+Write a program to read a character until a * is encountered. Also count the number of uppercase, lowercase, and numbers entered by the users.
+Sample Input:
+Enter * to exit…
+Enter any character: W
+Enter any character: d
+Enter any character: A
+Enter any character: G
+Enter any character: g
+Enter any character: H
+Enter any character: *
+Sample Output:
+Total count of lower case:2
+Total count of upper case:4
+Total count of numbers =0
+Test cases:
+1,7,6,9,5
+S, Q, l, K,7, j, M
+M, j, L, &, @, G
+D, K, I, 6, L, *
+*, K, A, e, 1, 8, %, *
+
+Write a program to calculate the factorial of number using recursive function.
+Sample Input & Output:
+Enter the value of n: 6
+Sample Input & Output:
+The factorial of 6 is: 720
+Test cases:
+N = 0
+N = -5
+N = 1
+N = M
+N = %
+
+
+Write a Program to Find the Nth Largest Number in a array.
+Sample Input:
+List  : {14, 67, 48, 23, 5, 62}
+N = 4
+Sample Output:
+4th Largest number: 23
+
+Test cases:
+N = 0
+N = -5
+N = 1
+N = M
+N = %
+
+Write a program to convert the Binary to Decimal, Octal
+Sample Input:
+Given Number: 1101
+Sample Output:
+Decimal Number: 13
+Octal:15
+Test cases:
+211
+11011
+22122
+111011.011
+1010.0101
+
+Write a program to find the number of special characters in the given statement
+Sample Input:
+Given statement: Modi Birthday @ September 17, #&$% is the wishes code for him.
+Sample Output:
+Number of special Characters: 5
+
+Write a Program to Remove the Duplicate Items from a array.
+Sample Input:
+Enter the number of elements in array:7
+Enter element1:10
+Enter element2:20
+Enter element3:20
+Enter element4:30
+Enter element5:40
+Enter element6:40
+Enter element7:50
+Sample Output:
+Non-duplicate items:
+[10, 20, 30, 40, 50]
+Bank is a class that provides method to get the rate of interest. But, rate of interest may differ according to banks. For example, SBI, ICICI and AXIS banks are providing 8.4%, 7.3% and 9.7% rate of interest. Write a Java program for above scenario.
+Sample Input SBI, 8.4
+Sample Output 
+Test case 
+SBI,  8.3
+ICICI, 7.3
+AXIS, 9.7
+SBI, 8.6
+AXIX, 7.6
+
+Bring out the situation in which member names of a subclass hide members by the same name in the super class. How it can be resolved? Write Suitable code in Java and 
+Implement above scenario with the Parametrized Constructor (accept int type parameter) of the Super Class can be called from Sub Class Using super () and display the input values provided.
+
+Sample Input : 100, 200
+Sample Output : 100, 200
+Test Cases
+10, 20
+-20, -30
+0, 0
+EIGHT FIVE
+10.57, 12.58
+Display Multiplication table for 5 and 10 using various stages of life cycle of the thread by generating a suitable code in Java.
+Sample Input 5, 10
+5 X 1 = 5
+5 X 2 =10
+ ….
+10 X 1 =10
+10 X 2 = 20
+….
+Test Cases:
+10, 20
+-10, -30
+0, 0
+SIX, SIX
+9.8, 9.6
+
+Using the concepts of thread with implementing Runnable interface in Java to generate Fibonacci series.
+Sample Input : 5 
+Sample Output : 0 1 1 2 3 …..
+Test Cases
+7
+-10
+0
+EIGHT FIVE
+12.65
+
+Generate a Java code to find the sum of N numbers using array and throw ArrayIndexOutOfBoundsException when the loop variable beyond the size N. 
+Sample Input : 5 
+1 2 3 4 5
+Sample Output : 15
+Test Cases
+4, 10
+-10
+0
+EIGHT SEVEN
+12.68
+
+Using the concepts of thread with implementing Runnable interface in Java to find whether a given number is prime or not.
+Sample Input : 5 
+Sample Output : 5 is Prime
+
+Sample Output : 15
+Test Cases
+4
+-10
+0
+EIGHT SEVEN
+11.48
+Given a string s consisting of words and spaces, return the length of the last word in the string. A word is a maximal substring consisting of non-space characters only. There will be at least one word, consists of only English letters and spaces ' '. 
+Example 1:
+Input: s = "Hello World"
+Output: 5
+Explanation: The last word is "World" with length 5.
+Test Case
+Test Case
+Inputs-1
+
+
+Maximal Substring Consisting
+
+
+lea@st one wor2d
+
+
+1254  98076
+
+
+& * (  ) % # $
+
+
+letters and spaces
+
