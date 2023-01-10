@@ -1,0 +1,662 @@
+Easy
+
+Write a program to reverse a word using loop? (Not to use inbuilt functions)
+Sample Input: 
+String: TEMPLE
+Sample Output:
+Reverse String: ELPMET
+Test cases:
+SIGN UP
+AT-LEAST
+1245
+!@#$%
+145*999=144855
+
+Write a program to check the entered user name is valid or not. Get both the inputs from the user.
+Sample Input:
+Enter the user name: Saveetha@789
+Reenter the user name: Saveetha@123
+Sample Output:
+	      User name is Invalid
+
+Write a program to reverse a number using loop?(Get the input from user)
+Sample Input:
+Number: 14567
+Sample Output:
+Reverse Number: 76541
+Test cases:
+-45721
+000
+AD1947
+!@#$%
+145*999=144855
+
+Write a program to find whether the person is eligible for vote or not. And if that particular person is not eligible, then print how many years are left to be eligible.
+Sample Input:
+Enter your age:	7
+Sample output:
+You are allowed to vote after 11 years
+Test cases:
+25
+Eighteen
+12
+-18
+34.5
+
+
+Find the LCM and GCD of n numbers?
+Sample Input:
+N value = 2
+Number 1 = 16
+Number 2 = 20
+Sample Output:
+LCM = 80
+GCD = 4
+Test cases:
+N = 3, {12, 25, 30}
+N = 2, {52, 25, 63}
+N = 3, {17, 19, 11}
+N = -2, {52, 60}
+N = 2, {30, 45}
+
+Write a program to print Right Triangle Star Pattern
+    Sample Input:: n = 5
+Output: 
+           * 
+         * * 
+       * * * 
+  * * * * 
+ * * * * *
+Write a program to print the below pattern?                                
+
+
+
+
+1
+
+
+
+
+
+
+
+
+1
+
+1
+
+
+
+
+
+
+1
+
+2
+
+1
+
+
+
+
+1
+
+3
+
+3
+
+1
+
+
+1
+
+4
+
+6
+
+4
+
+1
+
+
+Write a program using function to calculate the simple interest. Suppose the customer is a senior citizen. He is being offered 12 percent rate of interest; for all other customers, the ROI is 10 percent.
+Sample Input:
+Enter the principal amount: 200000
+Enter the no of years:  3
+Is customer senior citizen (y/n): n
+Sample Output:
+Interest: 60000
+Test Cases:
+Principal: 2000 , Years: 0
+Principal: 20000 , Years: -2
+Principal: -2000 , Years: 2
+Principal: 2 , Years: 2000
+Principal: 0 , Years: 5
+
+Java Program to Find Even Sum of Fibonacci Series Till number N?
+Sample Input: n = 4
+Sample Output: 33
+(N = 4, So here the fibonacci series will be produced from 0th term till 8th term:0, 1, 1, 2, 3, 5, 8, 13, 21
+Sum of numbers at even indexes = 0 + 1 + 3 + 8 + 21 = 33)
+
+Write a program to print the numbers from M to N by skipping K numbers in between?
+Sample Input:
+M = 50
+N = 100
+K = 7
+Sample Output:
+50, 58, 66, 74, …..
+Test cases:
+M = 15, N  = 05, K = 02
+.M = 25, N  = 50, K = 04
+M = 15, N  = 100, K = -02
+M = 0 , N = 0 , K = 2 
+M = 200 , N = 200 , K = 50
+
+Write a program for matrix addition?
+Sample Input:
+Mat1 = 	1  2
+5  3
+Mat2 = 2   3
+             4   1
+Sample Output:
+Mat Sum = 3    5
+9     4
+
+Write a program to print rectangle symbol pattern.
+Get the symbol as input from user
+
+Write a program that would sort a list of names in alphabetical order Ascending or Descending, choice get from the user?
+Sample Input:
+Banana
+Carrot
+Radish
+Apple
+Jack
+Order(A/D) : A
+Sample Output:
+Apple
+Banana
+Carrot
+Jack
+Radish
+
+Write a program for matrix multiplication?
+Sample Input:
+Mat1 = 	1  2
+5  3
+Mat2 = 	2   3
+             	4   1
+Sample Output:
+Mat Sum = 10    5
+ 22   18
+Write a program to print the following pattern
+Sample Input:
+Enter the number to be printed: 1
+Max Number of time printed: 3
+1
+11
+111
+11
+1
+
+Write a program to print the special characters separately and print number of Special characters in the line?
+
+Write a program to print all the composite numbers between a and b?
+Sample Input:
+A = 12
+B = 19
+Sample Output
+14, 15, 16, 18
+Test cases:
+A = 11, B = 11
+A = 20, B = 10
+A = 0, B = 0
+A = -5, B = 5
+A = 7, B = -12
+
+Write a program to print the Inverted Full Pyramid pattern?
+
+Find the Mean, Median, Mode of the array of numbers?
+Sample Input;:
+Array of elements = {16, 18, 27, 16, 23, 21, 19}
+Sample Output:
+Mean = 20
+Median = 19
+Mode = 16
+Test cases:
+1. Array of elements = {26, 28, 37, 26, 33, 31, 29}
+2. Array of elements = {1.6, 1.8, 2.7, 1.6, 2.3, 2.1, .19}
+3. Array of elements = {0, 160, 180, 270, 160, 230, 210, 190, 0}
+4. Array of elements = {200, 180, 180, 270, 160, 270, 270, 190, 200}
+5. Array of elements = {100, 100, 100, 100, 100, 100, 100, 100, 100}
+
+Find the factorial of n?
+Sample Input:
+N = 4
+Sample Output:
+4 Factorial = 24
+Test cases:
+N = 0
+N = -5
+N = 1
+N = Q
+N = 3A
+
+Write a program to print the following pattern
+Sample Input:
+Enter the Character to be printed: %
+Max Number of time printed: 3
+%
+% %
+% % %
+
+Find the year of the given date is leap year or not
+Sample Input:
+Enter Date: 04/11/1947
+Sample Output:
+Given year is Non Leap Year
+Test cases:
+04/11/19.47
+11/15/1936
+31/45/1996
+64/09/1947
+00/00/2000
+
+Find the number of factors for the given number
+Sample Input:
+Given number: 100
+Sample Output:
+Number of factors = 9
+Test cases:
+343
+1080
+-243
+101010
+0
+
+Write a program to print the given number is Perfect number or not?
+Sample Input:
+Given Number: 6
+Sample Output:
+It’s a Perfect Number 
+Test cases:
+17
+26!
+143
+84.1
+-963
+
+Write a program to print the number of vowels in the given statement?
+Sample Input:
+Saveetha School of Engineering
+Pseudo:
+User to enter the string 
+Declare two variables (vcount for vowel counting and count for consonant counting) to calculate the vowels and consonants in the string and initialize it to 0.
+Use a for loop to iterate through each character of the string.
+Use an if condition to check whether any character matches with the vowels in the alphabets.
+If any vowel encounters then increment the vcount.
+Else if any consonant encounters then increment the count.
+Display the values of both the count variables.
+
+Sample Output:
+Number o vowels = 12 
+Test cases:
+India is my country
+All are my brothers and sisters
+Why dry sky
+Shy Try Cry
+EDUCATION
+
+
+Write a program to print hollow square symbol pattern?
+
+Pseudo:
+Get the symbol from user. 
+Gets the number of input rows from the user using Scanner Class or BufferedReader Class object?
+Now run two loops
+Outer loop to iterate through a number of rows as initialized or input is taken from reader class object in java. Now,
+Run an inner loop from 1 to ‘i-1’
+Run another inner loop from 1 to rows * 2 – (i × 2 – 1)
+
+Write a program to print consonants and vowels separately in the given word
+Sample Input:
+Given Word: Engineering
+Pseudo:
+User to enter the string 
+Declare two variables (vcount for vowel counting and count for consonant counting) to calculate the vowels and consonants in the string and initialize it to 0.
+Use a for loop to iterate through each character of the string.
+Use an if condition to check whether any character matches with the vowels in the alphabets.
+If any vowel encounters then increment the vcount.
+Else if any consonant encounters then increment the count.
+Display the values of both the count variables.
+
+Sample Output:
+Consonants: n g n r n g
+Vowels: e i e ei
+Test cases:
+TRY
+MEDIAN
+ONE
+KNOWLEDGE
+EDUCATION
+
+Write a program to print the Fibonacci series.
+Sample Input:
+Enter the n value: 6
+
+Program Logic:
+Pseudo:
+User to enter the Number
+previous Number is initialized to 0 and next Number is initialized to 1
+The Fibonacci For Loop iterates through max Number
+Display the previous Number
+Calculates sum of previous Number and next Number
+Updates new values of previous Number and next Number
+
+Sample Output:
+0	1	1	2	3	5
+
+Write a program to print the below pattern
+1
+2  2
+3  3  3    
+4  4   4   4
+
+Pseudo :
+Gets the number of input rows from the user using Scanner Class or BufferedReader Class object?
+Now run two loops
+Outer loop to iterate through a number of rows as initialized or input is taken from reader class object in java. Now,
+Run an inner loop from 1 to ‘i-1’
+Run another inner loop from 1 to rows * 2 – (i × 2 – 1)
+
+Write a program to find the square, cube of the given decimal number
+Sample Input:
+Given Number: 0.6
+Sample Output:
+Square Number: 0.36
+Cube Number:0.216
+Test cases:
+12
+0 
+-0.5
+14.25
+-296
+
+Program to find the frequency of each element in the array.
+Sample Input & Output:
+{1, 2, 8, 3, 2, 2, 2, 5, 1}
+Pseudo:
+Element | Frequency
+--------------------------
+1           |         2
+2           |         4
+8           |         1
+3           |         1
+4          |         1
+
+Write a program to print the given number is Perfect number or not?
+Sample Input:
+Given Number: 6
+Pseudo 
+Read or initialize a number (n).
+Declare a variable (s) for storing sum.
+Find the factors of the given number (n) by using a loop (for/ while).
+Calculate the sum of factors and store it in a variable s.
+Compare the sum (s) with the number (n):
+If both (s and n) are equal, then the given number is a perfect number.
+Else, the number is not a perfect number.
+Sample Output:
+It’s a Perfect Number 
+Test cases:
+17
+26!
+143
+84.1
+-963
+
+Find the factorial of n?
+Sample Input:
+N = 6
+User to Enter number in a variable n. 
+Initialize variable factorial with 1.
+Initialize loop control variable i with 1.
+Check if i is less than or equal to n. If the condition is false, go to step 8.
+Multiply factorial with i.
+Sample Output:
+6 Factorial = 720
+Test cases:
+N = 0
+N = -5
+N = 1
+N = Q
+N = 3A
+
+Write a program to print the below pattern
+1
+4     9
+16   25    36
+49   64    81    100
+Pseudo :
+Gets the number of input rows from the user using Scanner Class or BufferedReader Class object?
+Now run two loops
+Outer loop to iterate through a number of rows as initialized or input is taken from reader class object in java. Now,
+Run an inner loop from 1 to ‘i-1’
+Run another inner loop from 1 to rows * 2 – (i × 2 – 1)
+
+Write a program to find the number of composite numbers in an array of elements
+Sample Input;:
+Array of elements = {16, 18, 27, 16, 23, 21, 19}
+Pseudo 
+Create two for loop first one for input of element and the second one for logic and condition to count composite number.
+In for loop create if,  and else if statement for logic :
+condition of for loop = (i=0;i<n; i++),
+condition of if statement = (a[i]==2) (to continue without two because two is a prime number),
+Condition of else if statement = (a[i]%2==0) (and increment of count++ to check next number after increment).
+After for loop create a if statement, and the condition is “count>2” to print the number which is divide by moe than two number.
+Sample Output:
+Number of Composite Numbers = 5 
+Test cases:
+1. Array of elements = {26, 28, 37, 26, 33, 31, 29}
+2. Array of elements = {1.6, 1.8, 2.7, 1.6, 2.3, 2.1, .19}
+3. Array of elements = {0, 160, 180, 270, 160, 230, 210, 190, 0}
+4. Array of elements = {200, 180, 180, 270, 270, 270, 190, 200}
+5. Array of elements = {100, 100, 100, 100, 100, 100, 100, 100}
+
+Find the nth odd number after n odd number
+Sample Input: N : 7
+Pseudo 
+User to enter input ‘n’ for which you want to generate n odd numbers. Let us take n=3
+We enter the for loop  for(i=1;i<=2*n;i++) where i is your counter.
+1st Iteration for(i=1;i<=2*n;i++) i.e. for(i=1;i<=6;i++)
+if (i%2==0) it is false as 1%2!=0 so we print i.    i = 1
+2nd Iteration for(i=2;i<=2*n;i++) i.e. for(i=2;i<=6;i++)
+if(i%2==0) it is true as 2%2=0 hence 0==0 so we do not print i and just continue that is skip the below part.
+3rd Iteration for(i=3;i<=2*n;i++) i.e. for(i=3;i<=6;i++)
+if (i%2==0) it is false as 3%2!=0 so we  print i.  i=3
+4th Iteration for(i=4;i<=2*n;i++) i.e. for(i=4;i<=6;i++)
+if(i%2==0) it is true as 4%2=0 hence 0==0 so we do not print i and just continue that is skip the below part.
+5th Iteration for(i=5;i<=2*n;i++) i.e. for(i=5;i<=6;i++)
+if (i%2==0) it is false as 5%2!=0 so we print i.  i=5
+6th Iteration for(i=6;i<=2*n;i++) i.e. for(i=6;i<=6;i++)
+if(i%2==0) it is true as 6%2=0 hence 0==0 so we do not print i and just continue that is skip the below part.
+Now i=7 but 7>=6 so our program ends
+
+Sample Output:
+Hence the values printed for i are 1 , 3 , 5.
+Test cases:
+N = 0
+N = -6
+N = 2021
+N = -14.5
+N = -196
+
+Write a program that finds whether a given character is present in a string or not. In case it is present it prints the index at which it is present. Do not use built-in find functions to search the character.
+Sample Input:
+	Enter the string: I am a programmer
+	Enter the character to be searched: p
+Pseudo 
+Create a hash table with (key, value) tuple represented as (character, index) tuple.
+Store the first index of each character of str in the hash table.
+Now, for each character of patt check if it is present in the hash table or not. 
+If present then get its index from the hash table and update minIndex(minimum index encountered so far).
+For no matching character print “No character present”.
+
+Sample Output:
+	P is found in string at index: 8
+Note: Check for non available Character in the given statement as Hidden Test case.
+
+
+Write a program to print the below pattern
+1
+2 2
+3  3  3    
+4  4   4   4
+3  3  3
+2  2
+1
+Pseudo :
+Gets the number of input rows from the user using Scanner Class or BufferedReader Class object?
+Now run two loops
+Outer loop to iterate through a number of rows as initialized or input is taken from reader class object in java. Now,
+Run an inner loop from 1 to ‘i-1’
+Run another inner loop from 1 to rows * 2 – (i × 2 – 1)
+
+Program to find whether the given number is Armstrong number or not
+Sample Input:
+Enter number: 153
+Pseudo:
+Ask the user to initialize the number.
+Define 3 methods, one to check Armstrong, another to calculate the order, and another to calculate the raised to the power value.
+Calculate the total number of digits in order function using a while loop.
+Calculate the value of digit raised to the power order value.
+In the isArmstrong method check whether the entered number is Armstrong or not.
+If found Armstrong, then return true else return false.
+If true, then print a message that the entered number is an Armstrong.
+If false, then print a message that the entered number is not an Armstrong.
+
+Sample Output:
+Given number is Armstrong number
+Test cases:
+370
+1
+371
+145678
+0.21345
+
+Write a program to arrange the letters of the word alphabetically in reverse order
+Sample Input:
+Enter the word: MOSQUE
+Pseudo:
+Take the first two words. Identify the first different letter (at the same index of the words) in the words. The letter in the first word will precede the letter in the second word.
+If there exists no such letter, then the first string must be smaller in length than the second string.
+Assign the second word to the first word and input the third word into the second word. Repeat 2, 3 and 4 (n-1) times.
+Sample Output:
+Alphabetical Order: U S Q O M E
+Test Case:
+HYPOTHECATION
+MATRICULATION
+MANIPULATION
+SATISFACTION
+DEDICATION
+
+Write a program that accepts a string from user and displays the same string after removing vowels from it.
+Sample Input & Output:
+	Enter a string: we can play the game 
+	The string without vowels is: w cn ply thgm
+Pseudo:
+Take a String input from user and store is in a variable called as s.
+After that take String variable s1 with empty String.
+After that call replaceAll() on s object.
+Write regex on replaceAll() method like this s1 = s.replaceAll(“[aeiou]”, “”);
+
+Write a program to print hollow Square Dollar pattern?
+
+Pseudo :
+Gets the number of input rows from the user using Scanner Class or BufferedReader Class object?
+Now run two loops
+Outer loop to iterate through a number of rows as initialized or input is taken from reader class object in java. Now,
+Run an inner loop from 1 to ‘i-1’
+Run another inner loop from 1 to rows * 2 – (i × 2 – 1)
+
+Write a program to find the sum of digits of N digit number (sum should be single digit)
+Sample Input:
+Enter N value: 3
+Enter 3 digit numbers: 143
+
+Pseudo:
+User to enter number 
+Get the modulus/remainder of the number
+Sum the remainder of the number
+Divide the number by 10
+
+Sample Output:
+Sum of  3 digit number: 8
+Test cases:
+ N = 2, 158
+N = 3, 14
+N = 4, 0148
+N = 1, 0004
+N = 4, 7263
+
+Write a program to find the square root of a perfect square number(print both the positive and negative values)
+Sample Input:
+Enter the number: 6561
+
+Pseudo:
+Say the number is n.
+Start a loop from 1 to n/2.
+During iteration, for every integer ‘i’, calculate x = i*i.
+Now with this ‘x’ there are 3 possibilities.
+If x == n then n is a perfect square, return true
+If x > n then x has crossed the n, and n is not perfect square. Return false
+If the above steps a or b are not true then continue.
+
+Sample Output:
+Square Root: 81, -81
+Test cases:
+1225
+9801
+1827
+-100
+0
+
+Write a program for matrix multiplication?
+Sample Input:
+Mat1 = 	1  2
+5  3
+Mat2 = 	2   3
+             	4   1
+Pseudo:
+Enter the value of m and n (or) order of the first matrix.
+Enter the value of p and q (or) order of the second matrix.
+Create a matrix of size a[m][n] and b[p][q].
+If the number of columns of the first matrix is not equal to the number of rows of the second matrix, print matrix multiplication is not possible and exit. If not, proceed to the next step.
+Create a third matrix, c of size m x q, to store the product.
+Set a loop from i=0 to i=m.
+Set an inner loop for the above loop from j=0 to j=q.
+Initialise the value of the element (i, j) of the new matrix to 0.
+Set an inner loop inside the above loop from k=0 to k=p.
+Using the add and assign operator (+=) store the value of a[i][k] * b[k][j] in the third matrix, c[i][j]. 
+
+Sample Output:
+Mat Sum = 10    5
+                    22    18
+
+Write a program to print inverted pyramid pattern.
+Input: no of rows: 7
+Pseudo: 
+Gets the number of input rows from the user using Scanner Class or BufferedReader Class object?
+Now run two loops
+Outer loop to iterate through a number of rows as initialized or input is taken from reader class object in java. Now,
+Run an inner loop from 1 to ‘i-1’
+Run another inner loop from 1 to rows * 2 – (i × 2 – 1)
+
+Output 
+*************
+ ***********
+  *********
+   *******
+    *****
+     ***
+      *
