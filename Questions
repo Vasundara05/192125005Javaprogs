@@ -1,0 +1,81 @@
+Assignment 3
+
+
+Generate a Java code that implements java selection and iteration statements. Use do while loop to process a menu selection. When a menu is selected, it should display the syntax of the selected statements.
+Create a simple generics class with type parameters for sorting values of different types.
+Write a Java program to implement multiple threads and apply join method for thread  and thread has to be started after 500ms using sleep().
+Create a employee record using map interface and do the following operations.
+Add object             iii. Remove specified object
+isEmpty or not       iv. Clear
+Generate a Java code to handle Exceptions such as ArithmeticException, ArrayIndexOutOfBoundsException, NullPointerException using Multi-Catch Statements.
+Generate a Java Code to Write and Read the string “Computer Science and Engineering” using FileWriter and FileReader Class.
+Create a class name ‘overload’. write a program to assign the     values for two values by different number of arguments using a single function.
+Create a java program to construct the volume of Box using default constructor method.
+Briefly explain the concepts of object oriented programming. Develop a Java Program for the following Sketch
+
+         college
+           ^
+           |
+         Department 
+           ^
+           |
+         Course
+
+
+Find out the memory occupied by different data types by generating suitable Java code.
+Find all pairs of elements in an integer array whose sum is equal to a given number.
+Example : If Input Array : [4, -5, 9, 11, 25, 13, 12, 8]
+Input Number : 20. 
+Develop a Java Program for above scenario.  	
+Generate a Code in Java to show significance of ‘this’ keyword  in instance variable hiding.
+Generate Java code to perform below operations for the string “Object Oriented Programming Languages”
+Find the index of the character
+Conversion of uppercase to lowercase
+Find the Substring
+
+Accept the string  “ Welcome to Saveetha university” from the user and perform the following operations by writing a suitable Java code.
+Replace any word in the given String
+Find the length
+Uppercase Conversion
+Create a HashTable to maintain a bank detail which includes Account number and Customer name. Let Account number be the key in the HashTable. Write a Java program to implement the following operations in the HashTable
+Add 3 records
+Display the size of HashTable
+Clear the HashTable
+Define Iterator. Using Iterator in Java to insert the following elements, using ListIterator to append + symbol in each element and print them in reverse order.  {C,A,E,B,D,F}.
+Create a simple generics class with type parameters for sorting values of different types.
+Create a simple generics class with two type parameters for swapping two values of different types.
+Generate a code in Java to perform below operations for the strings “Java” and “Programming”
+Find the index of the character
+Compare two strings
+Concatenate two strings.
+Generate a Java code to perform simple arithmetic operations and to throw Arithmetic Exception for Division-by-Zero.
+Write a Java program to create three threads in parallel and display the natural numbers in orders using sleep() method.
+Generate a Java code to find the sum of N numbers using array and throw ArrayIndexOutOfBoundsException when the loop variable beyond the size N.  
+Assume your folder contain the file “Mydetails” and use renameTo() method in Java to rename it as “MyPersonalDetails”
+Create a File “testout.txt” with its content as “Welcome to”. Apply the following operations using appropriate I/O streams in Java to read a content of the file.	
+Generate a code to Count the Number of Words, Character and Lines from the File using Stream I/O in Java.
+Create file “MyDetails” using createNewFile() Method by writing a suitable code in Java. 	
+Copy the contents of “test3.txt” into “test4.txt” using FileInputStream and FileOuputStream class by writing suitable code in Java.	
+Write a program to create a directory that contains the following information.
+(a) Name of a person
+(b) Address
+(c) Telephone Number (if available with STD code)
+(d) Mobile Number (if available)
+(e) Head of the family
+(f) Unique ID No.
+Create a class with a method that prints "This is parent class" and its subclass with another method that prints "This is child class". Now, create an object for each of the class and call
+1 - method of parent class by object of parent class
+2 - method of child class by object of child class
+3 - method of parent class by object of child class
+Write a Java program to create a class Student and create constructor which assigns the values for the student details such as student name, register number, and five subject marks. Calculate the total and average of five subject marks and display the marks and average.
+Design class called Vehicle, which has two subclasses called Car and Truck. The Vehicle class is the superclass of Car, Truck and Motorcycle. The Vehicle class can contain those fields and methods that all Vehicles need (e.g. a license plate, owner etc.), whereas Car, Truck and Motorcycle can contain the fields and methods that are specific to Car, Truck and Motorcycle. Write a Java program to implement the concept of inheritance based on the following diagram
+
+
+
+
+Develop a Java application to generate Electricity bill. Create a class with the following  members: Consumer no., consumer name, previous month reading, current month reading. Compute the bill amount using the following tariff.
+ First 100 units – Rs. 1 per unit
+ 101-200 units – Rs. 2.50 per unit
+ 201 -500 units – Rs. 4 per unit
+ > 501 units – Rs. 6 per unit	
+If n = 8, then array ‘a’ will have 7 elements in the range from 1 to 8. For example       {1, 4, 5, 3, 7, 8, 6}. One number will be missing in ‘a’ (2 in this case). Write a source code to find out that missing number	   
